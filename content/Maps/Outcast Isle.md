@@ -2,8 +2,4 @@
 title: Outcast Isle Map
 publish: "true"
 ---
-
-```leaflet 
-id: Outcast-Isle
-image: [[Pathfinder2E Map.jpg]]
-```
+<iframe style="position: absolute; width:100%; height: 100%; border: none" src="https://impact909.github.io/mapofItzamna/"></iframe>

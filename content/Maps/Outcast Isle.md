@@ -2,4 +2,4 @@
 title: Outcast Isle Map
 publish: "true"
 ---
-<iframe style="width:50%; height: 60%; border: none" src="https://impact909.github.io/mapofItzamna/"></iframe>
+<iframe style="width:100%; height: 100%; border: none" src="https://impact909.github.io/mapofItzamna/"></iframe>

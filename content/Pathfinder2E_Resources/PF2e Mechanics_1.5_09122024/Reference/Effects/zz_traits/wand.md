@@ -1,1 +1,0 @@
-A wand contains a single spell which you can cast once per day.

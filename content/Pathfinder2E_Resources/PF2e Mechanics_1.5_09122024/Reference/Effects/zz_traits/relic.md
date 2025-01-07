@@ -1,1 +1,0 @@
-An item with the relic trait grows in power with its wielder.

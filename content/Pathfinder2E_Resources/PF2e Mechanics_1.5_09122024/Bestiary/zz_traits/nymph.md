@@ -1,1 +1,0 @@
-This family of beautiful fey creatures has strong ties to natural locations.

@@ -1,1 +1,0 @@
-A creature with this trait is a member of the fetchling ancestry. Fetchlings were once human, but generations of life in the Netherworld have transformed them.

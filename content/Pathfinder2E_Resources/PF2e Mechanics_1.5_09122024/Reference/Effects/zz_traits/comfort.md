@@ -1,1 +1,0 @@
-The armor is so comfortable that you can rest normally while wearing it.

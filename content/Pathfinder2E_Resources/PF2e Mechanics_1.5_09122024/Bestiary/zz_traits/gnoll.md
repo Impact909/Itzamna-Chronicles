@@ -1,1 +1,0 @@
-Gnolls are humanoids that resemble hyenas.

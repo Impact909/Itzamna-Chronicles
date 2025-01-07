@@ -1,1 +1,0 @@
-Fungal creatures have the fungus trait. They are distinct from normal fungi.

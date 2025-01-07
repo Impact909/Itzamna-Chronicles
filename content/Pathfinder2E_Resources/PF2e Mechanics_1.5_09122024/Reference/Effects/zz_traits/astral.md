@@ -1,1 +1,0 @@
-Astral creatures are native to the Astral Plane. They can survive the basic environmental effects of the Astral Plane.

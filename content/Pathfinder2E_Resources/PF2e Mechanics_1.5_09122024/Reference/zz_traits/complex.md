@@ -1,1 +1,0 @@
-A hazard with this trait takes turns in an encounter.

@@ -1,1 +1,0 @@
-A potion is a magical liquid activated when you drink it.

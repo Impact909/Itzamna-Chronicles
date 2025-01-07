@@ -1,1 +1,0 @@
-An umbrella term for planar scions descended from beings from the Elemental Planes.

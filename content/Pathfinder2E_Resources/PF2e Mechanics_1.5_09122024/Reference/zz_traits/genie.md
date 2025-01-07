@@ -1,1 +1,0 @@
-The diverse families of genies hold positions of prominence on the elemental planes. They have powerful magical abilities.

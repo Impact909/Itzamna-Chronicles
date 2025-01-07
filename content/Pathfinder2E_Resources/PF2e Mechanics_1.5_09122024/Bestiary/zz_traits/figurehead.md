@@ -1,1 +1,0 @@
-While many ships are adorned with decorative carvings, daring crews sometimes procure magical figureheads for their vessels.

@@ -1,1 +1,0 @@
-Serpentfolk are a family of serpentine humanoids.

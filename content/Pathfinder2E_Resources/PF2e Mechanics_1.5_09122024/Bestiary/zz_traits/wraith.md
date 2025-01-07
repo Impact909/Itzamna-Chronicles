@@ -1,1 +1,0 @@
-A wraith is an incorporeal undead creature infused with void energy and driven by a hatred of all life.

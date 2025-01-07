@@ -1,1 +1,0 @@
-This magic involves shadows or the energy of the Netherworld.

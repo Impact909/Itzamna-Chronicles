@@ -1,1 +1,0 @@
-Gadgets are consumable technological inventions with innovative uses.

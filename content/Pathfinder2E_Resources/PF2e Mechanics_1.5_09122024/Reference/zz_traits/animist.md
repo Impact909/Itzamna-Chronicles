@@ -1,1 +1,0 @@
-This indicates abilities from the animist class.

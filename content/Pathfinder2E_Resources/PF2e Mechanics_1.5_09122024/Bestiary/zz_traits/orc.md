@@ -1,1 +1,0 @@
-A creature with this trait is a member of the orc ancestry. These green-skinned people tend to have darkvision. A weapon with this trait is a weapon which orcs craft and use.

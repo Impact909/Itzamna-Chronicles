@@ -1,1 +1,0 @@
-Entropic undead creatures twisted by the Netherworld and the Void.

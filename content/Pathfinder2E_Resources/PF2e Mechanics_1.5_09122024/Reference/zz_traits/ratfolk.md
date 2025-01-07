@@ -1,1 +1,0 @@
-A creature with this trait is a member of the ratfolk ancestry. Ratfolk are humanoids who resemble rats.

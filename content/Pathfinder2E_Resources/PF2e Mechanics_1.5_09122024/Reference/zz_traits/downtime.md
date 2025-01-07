@@ -1,1 +1,0 @@
-An activity with this trait takes a day or more, and can be used only during downtime.

@@ -1,1 +1,0 @@
-These malevolent spellcasters form covens.

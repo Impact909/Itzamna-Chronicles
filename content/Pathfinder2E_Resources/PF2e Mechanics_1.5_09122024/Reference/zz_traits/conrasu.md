@@ -1,1 +1,0 @@
-A people that are made of cosmic force given consciousness and housed within unique exoskeletons.

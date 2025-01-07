@@ -1,1 +1,0 @@
-These constructs are mentally augmented by a fragment of a once-living creature's soul.

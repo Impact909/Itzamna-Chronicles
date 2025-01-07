@@ -1,1 +1,0 @@
-Boggards are frog-like humanoids. They typically have darkvision.

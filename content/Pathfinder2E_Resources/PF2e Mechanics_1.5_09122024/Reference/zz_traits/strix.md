@@ -1,1 +1,0 @@
-Winged humanoids, most of whom live in and around Cheliax.

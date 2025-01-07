@@ -1,1 +1,0 @@
-Centaurs have humanoid upper bodies and equine lower bodies.

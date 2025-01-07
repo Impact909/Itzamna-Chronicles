@@ -1,1 +1,0 @@
-Greedy and gluttonous undead originally formed from genie.

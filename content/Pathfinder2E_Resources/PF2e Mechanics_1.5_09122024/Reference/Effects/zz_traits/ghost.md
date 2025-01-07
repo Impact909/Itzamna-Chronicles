@@ -1,1 +1,0 @@
-Lost souls that haunt the world as incorporeal undead are called ghosts.

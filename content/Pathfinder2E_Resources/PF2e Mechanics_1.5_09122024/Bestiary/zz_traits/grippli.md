@@ -1,1 +1,0 @@
-Gripplis are a family of frog-like humanoids

@@ -1,1 +1,0 @@
-Humanoids that can partially or fully transform into animal forms.

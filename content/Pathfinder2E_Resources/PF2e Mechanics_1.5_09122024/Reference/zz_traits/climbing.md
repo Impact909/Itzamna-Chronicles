@@ -1,1 +1,0 @@
-The hand wielding the weapon is available to Climb.

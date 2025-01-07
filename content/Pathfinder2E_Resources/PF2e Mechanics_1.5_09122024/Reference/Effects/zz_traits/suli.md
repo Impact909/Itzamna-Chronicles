@@ -1,1 +1,0 @@
-Sulis are planar scions descended from jann.

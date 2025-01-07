@@ -1,1 +1,0 @@
-Athamarus are fishlike aquatic humanoids.

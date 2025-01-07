@@ -1,1 +1,0 @@
-An intelligent plant ancestry that maintain long lives by rejuvenating themselves from seeds.

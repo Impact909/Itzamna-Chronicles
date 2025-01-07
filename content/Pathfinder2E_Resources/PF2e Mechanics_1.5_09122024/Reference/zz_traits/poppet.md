@@ -1,1 +1,0 @@
-A creature with this trait is a member of the poppet ancestry.

@@ -1,1 +1,0 @@
-This effect can cause a creature to fall asleep or get drowsy.

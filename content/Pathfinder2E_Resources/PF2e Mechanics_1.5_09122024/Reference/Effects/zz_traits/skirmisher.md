@@ -1,1 +1,0 @@
-Skirmishers consist of a small number of highly mobile units.

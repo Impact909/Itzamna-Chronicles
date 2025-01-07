@@ -1,1 +1,0 @@
-A dangerous, typically poisonous emission typically originating from radioactive minerals.

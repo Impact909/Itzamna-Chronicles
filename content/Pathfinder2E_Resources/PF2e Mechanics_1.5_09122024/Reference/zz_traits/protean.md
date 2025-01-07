@@ -1,1 +1,0 @@
-A family of monitors spawned within the Maelstrom, these creatures are guardians of disorder. They typically have darkvision, an amorphous anatomy, and abilities that create magical warpwaves.

@@ -1,1 +1,0 @@
-Siege armies focus on the deployment of siege engines rather than personal combat.

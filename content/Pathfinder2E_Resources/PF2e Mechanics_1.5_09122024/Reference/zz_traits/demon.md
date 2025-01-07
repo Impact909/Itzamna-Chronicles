@@ -1,1 +1,0 @@
-A family of fiends, demons hail from or trace their origins to the Outer Rifts. Most are irredeemably unholy and have darkvision and weaknesses to cold iron and holy.

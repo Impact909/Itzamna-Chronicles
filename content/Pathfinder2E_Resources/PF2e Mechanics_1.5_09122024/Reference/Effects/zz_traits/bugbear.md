@@ -1,1 +1,0 @@
-A creature with this trait is a furry, stealthy goblinoid. Bugbears tend to have darkvision.

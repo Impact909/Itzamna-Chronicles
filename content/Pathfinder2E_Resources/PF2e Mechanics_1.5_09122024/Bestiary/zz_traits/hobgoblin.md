@@ -1,1 +1,0 @@
-A creature with this trait is a tall, militaristic goblinoid. Hobgoblins tend to have darkvision.

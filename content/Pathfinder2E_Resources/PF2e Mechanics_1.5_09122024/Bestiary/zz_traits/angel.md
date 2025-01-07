@@ -1,1 +1,0 @@
-This family of celestials are messengers and warriors. Most angels are holy, have darkvision, and have a weakness to unholy.

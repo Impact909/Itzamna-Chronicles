@@ -1,1 +1,0 @@
-Secretive humanoids covered in bony plumage that reside underground.

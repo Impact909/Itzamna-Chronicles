@@ -1,1 +1,0 @@
-Censers are decorative containers, often metal or ceramic, in which incense is burned. An item with the censer trait must be filled with incense to Activate it, which ignites the incense and causes the censer to exude a cloud of smoke.

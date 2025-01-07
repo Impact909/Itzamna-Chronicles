@@ -1,1 +1,0 @@
-This trait describes feats that represent special abilities gained after exposure to the weird and deadly.

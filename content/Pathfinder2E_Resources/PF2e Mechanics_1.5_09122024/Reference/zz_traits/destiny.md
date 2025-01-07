@@ -1,1 +1,0 @@
-The destiny trait indicates the first feat in a mythic destiny. You must be a mythic character of 12th-level to select a destiny and cannot take subsequent feats in that mythic destiny without first taking the destiny feat.

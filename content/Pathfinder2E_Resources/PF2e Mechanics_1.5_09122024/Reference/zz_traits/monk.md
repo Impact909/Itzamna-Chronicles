@@ -1,0 +1,1 @@
+Abilities with this trait are from the monk class. A weapon with this trait is primarily used by monks.

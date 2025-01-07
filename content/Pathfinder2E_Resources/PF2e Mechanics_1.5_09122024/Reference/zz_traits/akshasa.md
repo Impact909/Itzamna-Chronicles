@@ -1,0 +1,1 @@
+Rakshasas are divine spirits who exemplify the profane. They can typically Change Shape and have a weakness to holy.

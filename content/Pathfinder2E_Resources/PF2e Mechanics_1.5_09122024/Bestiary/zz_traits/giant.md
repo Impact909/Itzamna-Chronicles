@@ -1,0 +1,1 @@
+Giants are massive humanoid creatures.

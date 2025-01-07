@@ -1,0 +1,1 @@
+The calling trait identifies mechanical options a character gains when they first gain mythic power. Every calling option grants a way to use and regain Mythic Points.

@@ -1,0 +1,37 @@
+---
+obsidianUIMode: preview
+title: "Hireling"
+cssclasses: pf2e,pf2e-action
+tags:
+  - trait/common
+  - category/pfsboon
+aliases: "Item.eoOXAOhP91e9hE6U"
+license: OGL
+---
+# Hireling
+
+### 
+
+**Category** pfsboon; 
+
+
+
+
+**Cost**: 4 AcP
+
+* * *
+
+You have recruited a non-combat hireling who can assist you with a certain set of skill checks. This ally performs the selected skills with a total modifier equal to 2 + your level, and they are considered trained in the skills. You must expend any actions and be in range to perform the action yourself, and any consequences of these actions affect you (such as falling when using Athletics to Climb).
+
+The hireling doesn't have or use its own ability modifiers and can never benefit from item bonuses, status bonuses, or fortune effects. Abilities that grant you a circumstance bonus do not grant that circumstance bonus to your hireling even though you are using your action to attempt the check. You cannot aid your own hireling.
+
+You cannot use the hireling's skills except recall knowledge in combat, and the hireling cannot be affected by, or affect, combat, cannot be harmed unless willfully endangered, and has no effect other than performing the selected skill checks.
+
+When you purchase this boon, you select one skill as well as one Lore skill. The hireling can perform only these skills' checks.
+
+* * *
+
+**Special**: You can apply this boon multiple times to the same character, but may only benefit from one hireling boon on any given adventure.
+
+*Source: *
+*OGL*

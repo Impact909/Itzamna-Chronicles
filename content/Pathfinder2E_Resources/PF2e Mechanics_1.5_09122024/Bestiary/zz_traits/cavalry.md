@@ -1,0 +1,1 @@
+Cavalry consists of mounted combat units.

@@ -1,0 +1,1 @@
+Kholos are humanoids that resemble hyenas.

@@ -1,0 +1,1 @@
+Subterranean kin of the dwarves, hryngars typically have darkvision, resist poison, and recoil from bright light

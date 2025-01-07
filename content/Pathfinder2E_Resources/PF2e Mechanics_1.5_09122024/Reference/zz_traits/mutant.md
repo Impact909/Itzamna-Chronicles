@@ -1,0 +1,1 @@
+The monster has mutated or evolved, granting it unusual benefits, drawbacks, or both.

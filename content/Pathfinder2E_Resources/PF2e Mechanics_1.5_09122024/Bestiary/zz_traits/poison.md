@@ -1,0 +1,1 @@
+An effect with this trait delivers a poison or deals poison damage. An item with this trait is poisonous and might cause an affliction.

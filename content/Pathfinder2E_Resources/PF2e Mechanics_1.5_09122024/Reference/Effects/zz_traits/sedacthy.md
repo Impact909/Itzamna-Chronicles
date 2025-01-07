@@ -1,0 +1,1 @@
+Ocean-dwelling humanoids who communicate with sea life and usually have darkvision and wavesense.

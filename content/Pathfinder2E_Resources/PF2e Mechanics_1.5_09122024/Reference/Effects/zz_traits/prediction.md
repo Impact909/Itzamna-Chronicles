@@ -1,0 +1,1 @@
+Effects with this trait determine what is likely to happen in the near future. Most predictions are divinations.

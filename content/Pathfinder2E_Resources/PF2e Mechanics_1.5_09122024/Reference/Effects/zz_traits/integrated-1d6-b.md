@@ -1,0 +1,1 @@
+This shield has been created to include a weapon in its construction, which works like an attached weapon but can't be removed from the shield.

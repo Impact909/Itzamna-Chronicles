@@ -1,0 +1,1 @@
+A mummy is an undead creature created from a preserved corpse.

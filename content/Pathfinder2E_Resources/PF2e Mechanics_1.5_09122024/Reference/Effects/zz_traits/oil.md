@@ -1,0 +1,1 @@
+Oils are magical gels, ointments, pastes, or salves that are typically applied to an object and are used up in the process.

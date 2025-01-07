@@ -1,0 +1,1 @@
+This weapon can channel energy damage. You gain the Conduct Energy free action while wielding a resonant weapon.

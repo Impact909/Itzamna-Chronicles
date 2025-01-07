@@ -1,0 +1,1 @@
+Feats with this trait affect your eidolon instead of you, typically by granting it additional physical capabilities.

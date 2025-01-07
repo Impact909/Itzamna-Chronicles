@@ -1,0 +1,1 @@
+Humanoid creatures reason and act much like humans. They typically stand upright and have two arms and two legs.

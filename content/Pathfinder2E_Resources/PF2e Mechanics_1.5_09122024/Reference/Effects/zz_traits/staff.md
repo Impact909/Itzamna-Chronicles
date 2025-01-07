@@ -1,0 +1,1 @@
+This magic item holds spells of a particular theme and allows a spellcaster to cast additional spells by preparing the staff.

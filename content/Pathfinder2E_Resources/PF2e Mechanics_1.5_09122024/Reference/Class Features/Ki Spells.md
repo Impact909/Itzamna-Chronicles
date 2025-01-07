@@ -1,0 +1,29 @@
+---
+obsidianUIMode: preview
+title: "Ki Spells"
+cssclasses: pf2e,pf2e-spell
+tags:
+  - trait/common
+  - category/classfeature
+aliases: "Item.XwYfK1JL9NuMlUVW"
+license: OGL
+---
+# Ki Spells
+## Feat 1
+### 
+
+**Category** classfeature; 
+
+
+
+
+## Ki Spells
+
+By tapping into a supernatural inner reserve called ki, you can create magical effects. Certain feats grant you special spells called ki spells, which are a type of focus spell. It costs 1 Focus Point to cast a focus spell. When you gain your first ki spell, you also gain a focus pool of 1 Focus Point. You refill your focus pool during your daily preparations, and you regain 1 Focus Point by spending 10 minutes using the Refocus activity to meditate in order to reach inner peace.
+
+When you first gain a ki spell, decide whether your ki spells are divine spells or occult spells. You become trained in spell attacks and spell DCs of that tradition and your key spellcasting ability is Wisdom.
+
+Focus spells are automatically heightened to half your level rounded up. Taking feats can give you more focus spells and increase the size of your focus pool, though your focus pool can never hold more than 3 points.
+
+*Source: Pathfinder Core Rulebook*
+*OGL*

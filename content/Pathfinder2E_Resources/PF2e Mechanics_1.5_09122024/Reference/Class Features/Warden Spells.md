@@ -1,0 +1,29 @@
+---
+obsidianUIMode: preview
+title: "Warden Spells"
+cssclasses: pf2e,pf2e-spell
+tags:
+  - trait/ranger
+  - trait/common
+  - category/classfeature
+  - remaster
+aliases: "Item.crWpzoFeC9VBG64h"
+license: ORC
+---
+# Warden Spells
+## Feat 1
+### [[ranger]]
+
+**Category** classfeature; 
+
+
+
+
+Your relationship with the world around you extends from the physical to the magical. Certain feats grant you warden spells, which are a type of focus spells. It costs 1 Focus Point (FP) to cast a focus spell. When you gain your first warden spell, you also gain a focus pool of 1 FP. You refill your focus pool during your daily preparations, and you regain 1 FP by spending 10 minutes using the Refocus activity to commune with nature.
+
+Your warden spells are primal spells. When you first gain a warden spell, you become trained in primal spell attacks and spell DCs. Your spellcasting ability is Wisdom.
+
+Focus spells are automatically heightened to half your level rounded up. Taking feats can give you more focus spells and increase the size of your focus pool, though your focus pool can never hold more than 3 FP. The full rules for focus spells appear here.
+
+*Source: Pathfinder Player Core*
+*ORC*

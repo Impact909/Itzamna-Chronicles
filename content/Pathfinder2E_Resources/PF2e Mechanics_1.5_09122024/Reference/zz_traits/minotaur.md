@@ -1,0 +1,1 @@
+Minotaurs are horned, bovine humanoids with a mastery of mazes and puzzles.

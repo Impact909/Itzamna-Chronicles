@@ -1,0 +1,1 @@
+A creature with this trait has the dhampir versatile heritage. These humanoids are the offspring of vampires and members of other ancestries.

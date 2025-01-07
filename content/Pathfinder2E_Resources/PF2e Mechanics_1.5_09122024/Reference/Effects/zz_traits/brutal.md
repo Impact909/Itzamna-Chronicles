@@ -1,0 +1,1 @@
+A ranged attack with this trait uses its Strength modifier instead of Dexterity on the attack roll.

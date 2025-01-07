@@ -1,0 +1,1 @@
+This weapon can be filled with a liquid, usually an injury poison. Immediately after a successful attack with the weapon, you can inject the target with the loaded contents with a single Interact action. (If the target is willing, the injection takes only 1 Interact action total.) Refilling the weapon with a new substance requires 3 Interact actions and uses two hands.

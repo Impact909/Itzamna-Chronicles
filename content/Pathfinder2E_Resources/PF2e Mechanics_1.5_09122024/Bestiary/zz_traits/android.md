@@ -1,0 +1,1 @@
+A synthetic humanoid ancestry created by artificial means. Most common in Numeria.

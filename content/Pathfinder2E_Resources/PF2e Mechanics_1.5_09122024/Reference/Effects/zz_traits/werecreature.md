@@ -1,0 +1,1 @@
+These shapechanging creatures can shift between animal, humanoid, and hybrid forms.

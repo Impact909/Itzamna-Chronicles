@@ -1,0 +1,1 @@
+Actions and abilities with the social trait can be used only while a vigilante is in their social identity.

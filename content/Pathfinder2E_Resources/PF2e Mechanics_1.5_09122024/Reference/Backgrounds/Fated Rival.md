@@ -1,0 +1,27 @@
+---
+obsidianUIMode: preview
+title: "Fated Rival"
+cssclasses: pf2e,pf2e-action
+tags:
+  - trait/rare
+  - remaster
+aliases: "Item.iMKvMcdCFxnLGa1Q"
+license: ORC
+---
+# Fated Rival
+
+### [rare](rare "Rare Rarity Trait")
+
+
+
+
+
+
+You are bound in an adversarial relationship with another person or creature. You might have been close once, before everything went wrong, or they might have drastically altered your life at a crucial moment. Perhaps you are mystically bound by the red string of destiny, or perhaps your clash was preordained by the oracles of Po Li. Whatever the case, either fate or your own will keeps you driving forward to fight with them once more.
+
+You and your GM work out who your rival is and how they fit in to your story. You become trained in two Lore skills related to your rival, which you and your GM choose.
+
+You gain two free attribute boosts; you choose one, and the GM chooses one to complement your rival. So long as you are not in the presence of your rival, you gain the Diehard general feat and a +1 circumstance bonus to saving throws against the doomed condition. When in the presence of your rival, you lose these benefits but gain a +1 circumstance bonus to attack rolls and damage. If your rival becomes your ally or a member of your party, you gain the Diehard and save bonus benefits, as long as that's the case.
+
+*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*ORC*

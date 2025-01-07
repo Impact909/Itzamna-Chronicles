@@ -1,0 +1,1 @@
+Items with this trait are associated with the technology of Numeria.

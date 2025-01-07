@@ -1,0 +1,1 @@
+An alchemical consumable with the processed trait can be created with Quick Alchemy but is too complex to create in a single action.

@@ -1,0 +1,1 @@
+A family of fiends from Hell, most devils are irredeemably unholy. They typically have greater darkvision, immunity to fire, telepathy, and weakness to holy.

@@ -1,0 +1,1 @@
+You must select a feat with this trait to apply an archetype to your character.

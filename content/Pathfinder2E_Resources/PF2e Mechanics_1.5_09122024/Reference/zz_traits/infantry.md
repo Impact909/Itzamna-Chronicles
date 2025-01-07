@@ -1,0 +1,1 @@
+Infantry consists of soldiers or creatures that move on foot.

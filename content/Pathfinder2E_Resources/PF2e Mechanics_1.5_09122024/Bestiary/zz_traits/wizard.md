@@ -1,0 +1,1 @@
+This indicates abilities from the wizard class.

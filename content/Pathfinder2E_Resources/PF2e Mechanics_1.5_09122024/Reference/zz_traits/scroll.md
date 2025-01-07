@@ -1,0 +1,1 @@
+A scroll contains a single spell you can cast without a spell slot.

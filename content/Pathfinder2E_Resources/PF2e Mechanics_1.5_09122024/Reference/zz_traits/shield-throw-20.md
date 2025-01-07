@@ -1,0 +1,1 @@
+A shield with this trait is designed to be thrown as a ranged attack.

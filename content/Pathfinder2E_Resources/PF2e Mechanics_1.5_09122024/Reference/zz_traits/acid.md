@@ -1,0 +1,1 @@
+Effects with this trait deal acid damage. Creatures with this trait have a magical connection to acid.

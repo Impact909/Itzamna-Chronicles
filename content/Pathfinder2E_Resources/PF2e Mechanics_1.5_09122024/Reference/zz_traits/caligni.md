@@ -1,0 +1,1 @@
+These subterranean people have darkvision, and some have powers to create darkness.

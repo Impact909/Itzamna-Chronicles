@@ -1,0 +1,1 @@
+Ardandes are planar scions descended from kizidhars and other beings of elemental wood.

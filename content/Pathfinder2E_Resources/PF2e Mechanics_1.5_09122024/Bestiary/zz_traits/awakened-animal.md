@@ -1,0 +1,1 @@
+Awakened animals were once normal creatures before they gained sapience.

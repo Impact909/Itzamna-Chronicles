@@ -1,0 +1,1 @@
+This shield features a special brace or opening designed to hold jousting weapons.

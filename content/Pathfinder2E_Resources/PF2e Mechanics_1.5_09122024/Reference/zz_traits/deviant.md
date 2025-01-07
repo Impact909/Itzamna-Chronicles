@@ -1,0 +1,1 @@
+This trait describes strange supernatural or paranormal abilities.

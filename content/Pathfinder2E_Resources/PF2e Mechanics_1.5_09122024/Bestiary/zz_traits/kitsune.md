@@ -1,0 +1,1 @@
+Shapeshifting humanoids whose true forms resemble foxes.

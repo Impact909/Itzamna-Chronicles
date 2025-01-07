@@ -1,0 +1,1 @@
+You must be raging to use abilities with the rage trait, and they end automatically when you stop raging.

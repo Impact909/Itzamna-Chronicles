@@ -1,5 +1,5 @@
 ---
-title: "Bshez "Sand Claws" Shak"
+title: "Bshez Sand Claws Shak"
 obsidianUIMode: preview
 noteType: pf2eMonster
 cssClasses: pf2e
